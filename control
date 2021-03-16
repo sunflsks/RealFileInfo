@@ -1,0 +1,9 @@
+Package: us.sunflsks.realfileinfo
+Name: RealFileInfo
+Version: 1.0.0
+Architecture: iphoneos-arm
+Description: Show the actual kind of file inside the Files app
+Maintainer: sunflsks
+Author: sunflsks
+Section: Tweaks
+Depends: mobilesubstrate (>= 0.9.5000)
